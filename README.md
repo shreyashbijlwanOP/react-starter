@@ -33,3 +33,10 @@ This Project is Using Node Version ^20
 - Swiper => ^11.X.X
 - Lodash => ^4.X.X
 - Tailwind Css and Post Css for dev Dependencies
+- use-Immer & immer
+- use debounce
+- react-Typed
+
+```js
+//for Fun only
+```
